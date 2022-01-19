@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naylinaungy2k
+- 👋 Hi, I’m Nay Lin Aung(Ko Nay)
 - 👀 I’m interested in ... Web Deveploment
 - 🌱 I’m currently learning ... Html,CSS, JavaScript
 - 💞️ I’m looking to collaborate on ...
